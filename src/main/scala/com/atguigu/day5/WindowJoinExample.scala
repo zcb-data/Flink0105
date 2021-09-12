@@ -24,6 +24,7 @@ object WindowJoinExample {
       .assignAscendingTimestamps(_._3)
     }
 
+    //这是一次测试注释
 
       val input2 = {
         env.fromElements(
